@@ -1,4 +1,4 @@
-# Daily Intern Jobs in Tech by Jobright.ai
+# Daily Intern Jobs Repo by Jobright.ai
 
 This repository collects and categorises different categories of internship repositories.
 
@@ -31,21 +31,30 @@ This repository collects and categorises different categories of internship repo
         </h6>
     </sub>
 </p>
+
+---
+<h4>
+For the complete table, see the full spreadsheet below:
+</h4>
+<a href="https://docs.google.com/spreadsheets/d/1YhCc56aBbm1h-oiGbAEtRlc2IVW-CRqN_fJjsRBPHpk/edit?gid=2069390613#gid=2069390613">
+    <img src="./static/img/excel_icon.png" alt="excel_icon", style="width: 20%; height: 20%;">
+</a>
 </div>
 
 ---
 
 ## Daily Internship Job Repo List  🌐 🧭 🏆
 
-### [Engineering and Development](https://github.com/jobright-ai/Internship-Internal)
-### [Management and Executive](https://github.com/jobright-ai/Internship-Internal)
-### [Creatives and Design](https://github.com/jobright-ai/Internship-Internal)
-### [Product Management](https://github.com/jobright-ai/Internship-Internal)
-### [Sales and Marketing](https://github.com/jobright-ai/Internship-Internal)
-### [Accounting and Finance](https://github.com/jobright-ai/Internship-Internal)
-### [Arts and Entertainment](https://github.com/jobright-ai/Internship-Internal)
-### [Legal and Compliance](https://github.com/jobright-ai/Internship-Internal)
-### [Human Resources](https://github.com/jobright-ai/Internship-Internal)
-### [Public Sector and Government](https://github.com/jobright-ai/Internship-Internal)
-### [Education and Training](https://github.com/jobright-ai/Internship-Internal)
-### [Customer Service and Support](https://github.com/jobright-ai/Internship-Internal)
+### ➢ [Engineering and Development](https://github.com/jobright-ai/2025-Engineer-Internship)
+### ➢ [Management and Executive](https://github.com/jobright-ai/2025-Management-Internship)
+### ➢ [Creatives and Design](https://github.com/jobright-ai/2025-Design-Internship)
+### ➢ [Product Management](https://github.com/jobright-ai/2025-Product-Management-Internship)
+### ➢ [Sales](https://github.com/jobright-ai/2025-Sales-Internship)
+### ➢ [Marketing](https://github.com/jobright-ai/2025-Marketing-Internship)
+### ➢ [Accounting and Finance](https://github.com/jobright-ai/2025-Account-Internship)
+### ➢ [Arts and Entertainment](https://github.com/jobright-ai/2025-Art-Internship)
+### ➢ [Legal and Compliance](https://github.com/jobright-ai/2025-Legal-Internship)
+### ➢ [Human Resources](https://github.com/jobright-ai/2025-HR-Internship)
+### ➢ [Public Sector and Government](https://github.com/jobright-ai/2025-Public-Sector-Internship)
+### ➢ [Education and Training](https://github.com/jobright-ai/2025-Education-Internship)
+### ➢ [Customer Service and Support](https://github.com/jobright-ai/2025-Support-Internship)
