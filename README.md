@@ -6,10 +6,10 @@ This repository collects and categorises different categories of internship repo
 
 <div align="center">
 <p>
-    <a href="https://jobright.ai/?utm_source=1059&utm_campaign=git"><b>👇 Land your dream jobs with a seasoned AI career co-pilot 👇</b></a>
+    <a href="https://jobright.ai/?utm_campaign=1059&utm_source=git"><b>👇 Land your dream jobs with a seasoned AI career co-pilot 👇</b></a>
     <br>
     <br>
-    <a href="https://jobright.ai/?utm_source=1059&utm_campaign=git">
+    <a href="https://jobright.ai/?utm_campaign=1059&utm_source=git">
         <img src="./static/img/jrbtn.svg" alt="jobright.ai">
     </a>
     <br>
