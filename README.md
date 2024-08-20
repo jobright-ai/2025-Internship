@@ -36,8 +36,8 @@ This repository collects and categorises different categories of internship repo
 <h4>
 For the complete table, see the full spreadsheet below:
 </h4>
-<a href="https://docs.google.com/spreadsheets/d/1YhCc56aBbm1h-oiGbAEtRlc2IVW-CRqN_fJjsRBPHpk/edit?gid=2069390613#gid=2069390613">
-    <img src="./static/img/excel_icon.png" alt="excel_icon", style="width: 20%; height: 20%;">
+<a href="https://intern-list.com/?&utm_source=1101&utm_campaign=home">
+    <img src="./static/img/airtable.png" alt="excel_icon", style="width: 40%; height: 40%;">
 </a>
 </div>
 
