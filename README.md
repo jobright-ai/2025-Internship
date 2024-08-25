@@ -1,8 +1,6 @@
 # [Intern-list.com](https://intern-list.com?utm_source=git)
 
-Visit [intern-list.com](https://intern-list.com?utm_source=git) to get hourly updates and track the latest internship openings in the United States. Our platform aggregates listings from over 200K company career sites and major job boards.
-
-This repository collects and categorises different categories of internship repositories. This repo is maintained by jobright.ai.
+Visit [intern-list.com](https://intern-list.com?utm_source=git) to get hourly updates and track the latest internship openings in the United States. Our platform aggregates listings from over 200K company career sites and major job boards. Reach out at <a href="mailto:support@jobright.ai">support@jobright.ai</a> to help us enhance this list. ❤️
 
 ---
 
@@ -16,17 +14,10 @@ This repository collects and categorises different categories of internship repo
     </a>
     <br>
 </p>
-<p>
-    <sub> 
-        <h6>
-            Feedback? Questions? Reach out at <a href="mailto:support@jobright.ai">support@jobright.ai</a> to help us enhance this list. ❤️
-        </h6>
-    </sub>
-</p>
 
 ---
 <h4>
-For the full and complete latest internship openings, click the icon below 👇👇👇:
+ <a href="https://intern-list.com/?utm_source=git"><b> For the full and complete latest internship openings, click the icon below 👇👇👇:</b></a>
 </h4>
 <a href="https://intern-list.com/?utm_source=git">
     <img src="./static/img/airtable.png" alt="excel_icon", style="width: 20%; height: 20%;">
