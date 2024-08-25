@@ -1,6 +1,6 @@
 # [Intern-list.com](https://intern-list.com?utm_source=git)
 
-Visit [intern-list.com](https://intern-list.com?utm_source=git) to get hourly updates and track the latest internship openings in the United States. Our platform aggregates listings from over 200K company career sites and major job boards. Reach out at <a href="mailto:support@jobright.ai">support@jobright.ai</a> to help us enhance this list. ❤️
+Visit [intern-list.com](https://intern-list.com?utm_source=git) to get hourly updates and track 20K+ latest internship openings in the US, from over 200K+ career sites and job boards. Reach out at <a href="mailto:support@jobright.ai">support@jobright.ai</a> for any inquiries. ❤️
 
 ---
 
