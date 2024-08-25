@@ -12,7 +12,7 @@ This repository collects and categorises different categories of internship repo
     <br>
     <br>
     <a href="https://jobright.ai/?utm_campaign=1059&utm_source=git">
-        <img src="./static/img/jrbtn.svg" alt="jobright.ai", style="width: 30%; height: 30%;">
+        <img src="./static/img/jrbtn.svg" alt="jobright.ai", style="width: 35%; height: 35%;">
     </a>
     <br>
 </p>
@@ -29,7 +29,7 @@ This repository collects and categorises different categories of internship repo
 For the full and complete latest internship openings, click the icon below 👇👇👇:
 </h4>
 <a href="https://intern-list.com/?utm_source=git">
-    <img src="./static/img/airtable.png" alt="excel_icon", style="width: 25%; height: 25%;">
+    <img src="./static/img/airtable.png" alt="excel_icon", style="width: 20%; height: 20%;">
 </a>
 </div>
 
