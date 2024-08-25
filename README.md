@@ -1,30 +1,20 @@
-# [Intern-list.com](https://intern-list.com)
+# [Intern-list.com](https://intern-list.com?utm_source=git)
 
-Visit [intern-list.com](https://intern-list.com) to get hourly updates and track the latest internship openings in the United States. Our platform aggregates listings from over 200K company career sites and major job boards.
+Visit [intern-list.com](https://intern-list.com?utm_source=git) to get hourly updates and track the latest internship openings in the United States. Our platform aggregates listings from over 200K company career sites and major job boards.
 
-This repository collects and categorises different categories of internship repositories.
+This repository collects and categorises different categories of internship repositories. This repo is maintained by jobright.ai.
 
 ---
 
 <div align="center">
 <p>
-    <a href="https://jobright.ai/?utm_campaign=1059&utm_source=git"><b>👇 Land your dream jobs with a seasoned AI career co-pilot 👇</b></a>
+    <a href="https://jobright.ai/?utm_campaign=1059&utm_source=git"><b>👇 Land your dream jobs with a seasoned AI career co-pilot at Jobright.ai 👇</b></a>
     <br>
     <br>
     <a href="https://jobright.ai/?utm_campaign=1059&utm_source=git">
-        <img src="./static/img/jrbtn.svg" alt="jobright.ai">
+        <img src="./static/img/jrbtn.svg" alt="jobright.ai", style="width: 30%; height: 30%;">
     </a>
     <br>
-    <br>
-    <i>
-    <sub> 
-        <h5>
-        Jobright is your personal AI career assistant, transform your job search from solo, time-consuming efforts 
-        <br>
-        to a co-piloted journey with a seasoned AI career assistant at the helm.
-        </h5>
-    </sub>
-    </i>
 </p>
 <p>
     <sub> 
@@ -36,10 +26,10 @@ This repository collects and categorises different categories of internship repo
 
 ---
 <h4>
-For the complete table, see the full spreadsheet below:
+For the full and complete latest internship openings, click the icon below 👇👇👇:
 </h4>
-<a href="https://intern-list.com/?utm_source=1101&utm_campaign=home">
-    <img src="./static/img/airtable.png" alt="excel_icon", style="width: 40%; height: 40%;">
+<a href="https://intern-list.com/?utm_source=git">
+    <img src="./static/img/airtable.png" alt="excel_icon", style="width: 25%; height: 25%;">
 </a>
 </div>
 
