@@ -1,4 +1,6 @@
-# Daily Intern Jobs Repo by Jobright.ai
+# [Intern-list.com](https://intern-list.com)
+
+Visit [intern-list.com](https://intern-list.com) to get hourly updates and track the latest internship openings in the United States. Our platform aggregates listings from over 200K company career sites and major job boards.
 
 This repository collects and categorises different categories of internship repositories.
 
