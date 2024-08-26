@@ -28,6 +28,9 @@ Visit [intern-list.com](https://intern-list.com?utm_source=git) to get hourly up
 
 ## Daily Internship Job Repo List  🌐 🧭 🏆
 
+### ➢ [Software Engineering](https://intern-list.com/?selectedKey=💻%20Software%20Engineering&utm_source=git&utm_campaign=Software%20Engineering)
+### ➢ [Data Analysis](https://intern-list.com/?selectedKey=📈%20Data%20Analysis&utm_source=git&utm_campaign=Data%20Analysis)
+### ➢ [Business Analyst](https://intern-list.com/?selectedKey=📊%20Business%20Analyst&utm_source=git&utm_campaign=Business%20Analyst)
 ### ➢ [Management and Executive](https://intern-list.com/?selectedKey=🌟%20Management%20and%20Executive&utm_source=git&utm_campaign=Management%20and%20Executive)
 ### ➢ [Engineering and Development](https://intern-list.com/?selectedKey=🛠%EF%B8%8F%20Engineering%20and%20Development&utm_source=git&utm_campaign=Engineering%20and%20Development)
 ### ➢ [Creatives and Design](https://intern-list.com/?selectedKey=🎨%20Creatives%20and%20Design&utm_source=git&utm_campaign=Creatives%20and%20Design)
@@ -41,4 +44,4 @@ Visit [intern-list.com](https://intern-list.com?utm_source=git) to get hourly up
 ### ➢ [Education and Training](https://intern-list.com/?selectedKey=🎓%20Education%20and%20Training&utm_source=git&utm_campaign=Education%20and%20Training)
 ### ➢ [Customer Service and Support](https://intern-list.com/?selectedKey=☎%EF%B8%8F%20Customer%20Service%20and%20Support&utm_source=git&utm_campaign=Customer%20Service%20and%20Support)
 ### ➢ [Marketing](https://intern-list.com/?selectedKey=📢%20Marketing&utm_source=git&utm_campaign=Marketing)
-### ➢ [Software Engineering](https://intern-list.com/?selectedKey=💻%20Software%20Engineering&utm_source=git&utm_campaign=Software%20Engineering)
+### ➢ [Consultant](https://intern-list.com/?selectedKey=💼%20Consulting&utm_source=git&utm_campaign=Consultant)
