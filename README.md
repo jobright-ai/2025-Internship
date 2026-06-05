@@ -45,3 +45,9 @@ Visit [intern-list.com](https://intern-list.com?utm_source=git) to get hourly up
 ### ➢ [Customer Service and Support](https://intern-list.com/?selectedKey=☎%EF%B8%8F%20Customer%20Service%20and%20Support&utm_source=git&utm_campaign=Customer%20Service%20and%20Support)
 ### ➢ [Marketing](https://intern-list.com/?selectedKey=📢%20Marketing&utm_source=git&utm_campaign=Marketing)
 ### ➢ [Consultant](https://intern-list.com/?selectedKey=💼%20Consulting&utm_source=git&utm_campaign=Consultant)
+
+---
+
+## Canada-specific companion resource 🇨🇦
+
+- [Hanzilla Jobs — Canadian internships and co-ops](https://jobs.hanzilla.co/internships/) — free daily-updated listings for Canadian students and recent graduates across internships, co-ops, new-grad, junior, and entry-level roles in tech, engineering, business, finance, sciences, arts, and other fields.
